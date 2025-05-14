@@ -1,6 +1,6 @@
 # estudodogoogleformularios
 
-Esse pequeno projeto é o formulário do google de uma instituição fictícia, sendo estudo das aula do curso informática para negócios .
+Esse pequeno projeto é o formulário do google de uma instituição fictícia, sendo um estudo das aula do curso de informática para negócios .
 
 
 
